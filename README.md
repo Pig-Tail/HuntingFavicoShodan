@@ -18,6 +18,9 @@ USAGE
 
 python3 shodanfav.py hxxp://target.com/favicon.ico
 
+Example shodan: https://www.shodan.io/search?query=http.favicon.hash%3A124060887
+
+
 Some favicons:
 
 BBVA: http.favicon.hash:124060887
