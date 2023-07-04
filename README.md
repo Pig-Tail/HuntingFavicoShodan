@@ -24,3 +24,5 @@ Example shodan: https://www.shodan.io/search?query=http.favicon.hash%3A124060887
 Some favicons:
 
 BBVA: http.favicon.hash:124060887
+Kutxa: http.favicon.hash:365279498
+ING: http.favicon.hash:-647496847
